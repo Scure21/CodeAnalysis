@@ -4,8 +4,12 @@ See comments in `index.html` for instructions.
 
 ## Run
 I'm using yarn package manager. If you have yarn installed just type `yarn` in your cli to install project dependencies.
+
+
 If you don't have yarn you can isntall it by typing `brew update 
 brew install yarn`
+
+
 After you have yarn, open the two cli windows, type `yarn build` in one and `yarn start` in the other.
 
 ## Comments on the changes
